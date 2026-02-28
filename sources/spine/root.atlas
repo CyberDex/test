@@ -1,0 +1,17 @@
+root.png
+size:2004,1692
+filter:Linear,Linear
+bg
+bounds:2,190,2000,1500
+buttons/minus
+bounds:548,53,103,135
+buttons/plus
+bounds:443,53,103,135
+buttons/spin
+bounds:2,2,439,186
+
+root_2.png
+size:1793,1282
+filter:Linear,Linear
+ui
+bounds:2,2,1789,1278
