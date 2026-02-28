@@ -1,0 +1,13 @@
+anticipations.png
+size:480,1207
+filter:Linear,Linear
+scale:0.5
+bublles
+bounds:2,110,21,21
+frame_anticipation
+bounds:2,133,244,1072
+shadow_anticipation
+bounds:248,179,230,1026
+star
+bounds:248,2,198,175
+offsets:0,9,198,193

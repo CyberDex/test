@@ -1,0 +1,14 @@
+paylines.png
+size:1111,53
+filter:Linear,Linear
+deco
+bounds:1077,2,12,14
+offsets:3,1,17,17
+lead
+bounds:1035,11,40,40
+offsets:13,12,66,64
+line
+bounds:2,2,1031,49
+marker
+bounds:1077,18,32,33
+offsets:1,1,34,34
