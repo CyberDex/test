@@ -1,0 +1,33 @@
+{
+"skeleton": {
+	"hash": "f+2Ceteqjlk",
+	"spine": "4.2.43",
+	"x": -1376,
+	"y": -768,
+	"width": 2752,
+	"height": 1536,
+	"images": "./images",
+	"audio": "./audio"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "spine_spineboy", "parent": "root", "y": -458 }
+],
+"slots": [
+	{ "name": "bg", "bone": "root", "attachment": "bg" },
+	{ "name": "spine_spineboy", "bone": "spine_spineboy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"bg": {
+				"bg": { "width": 2752, "height": 1536 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}
